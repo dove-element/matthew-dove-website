@@ -1,0 +1,19 @@
+.footer{
+    background-color: #ffd54f;
+}
+
+.copyright{
+    display:block;
+    text-align: center;
+    line-height: 2rem;
+}
+
+.socialLinks{
+    text-align: center;
+    margin:0;
+}
+
+.socialLink{
+    display:inline;
+    padding:0 0.5rem;
+}
